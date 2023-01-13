@@ -73,9 +73,6 @@ nav {
     border-radius: .2em;
 }
 
-.site-nav > li {
-    /* margin-top: 0; */
-}
 
 .site-nav > li > a {
     display: block;
